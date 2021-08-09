@@ -62,3 +62,40 @@
 > [Time Series Analysis](https://github.com/tvelichkovt/SaaS_Growth_Metrics_SQL/blob/main/Time%20Series%20Analysis.sql)
 
 > [Identify active users](https://github.com/tvelichkovt/SaaS_Growth_Metrics_SQL/blob/main/Identify%20active%20users.sql)
+
+
+## [NLP](https://github.com/tvelichkovt/nlp)
+
+
+> [Extract nouns](https://github.com/tvelichkovt/nlp/blob/main/Extract%20nouns.ipynb)
+
+> [Extract nouns](https://github.com/tvelichkovt/nlp/blob/main/Extract%20nouns.ipynb)
+
+
+> []()
+
+> []()
+
+> []()
+
+> []()
+
+> []()
+
+> []()
+
+> []()
+
+> []()
+
+> []()
+
+> []()
+
+> []()
+
+> []()
+
+> []()
+
+
