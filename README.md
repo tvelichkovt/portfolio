@@ -2,7 +2,7 @@
 
 ## [NLP](https://github.com/tvelichkovt/PyTorch)
 
-### [Sentiment Model for Analyzing written feedback and survey reports to understand how customers feel about products and services.](https://github.com/tvelichkovt/PyTorch)
+### Sentiment Model for Analyzing written feedback and survey reports to understand how customers feel about products and services.
 
 *Definition -> Sentiment is the classification of emotions extracted from a piece of text, speech, or document.
 
