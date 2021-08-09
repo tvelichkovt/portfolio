@@ -1,7 +1,4 @@
-# Todor's Porfolio
-
-
-## [Sentiment Model for Analyzing written feedback and survey reports to understand how customers feel about products and services.](https://github.com/tvelichkovt/PyTorch)
+# [Sentiment Model for Analyzing written feedback and survey reports to understand how customers feel about products and services.](https://github.com/tvelichkovt/PyTorch)
 
 ### Steps
 
