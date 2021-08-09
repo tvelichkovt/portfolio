@@ -11,14 +11,25 @@
 > [Identify the largest difference in total score](https://github.com/tvelichkovt/SaaS_Growth_Metrics_SQL/blob/main/Identify%20the%20largest%20difference%20in%20total%20score.sql)
 
 > []()
-> []()
-> []()
-> []()
-> []()
-> []()
-> []()
-> > []()
 
+> []()
 
+> []()
 
+> []()
 
+> []()
+
+> []()
+
+> []()
+
+> []()
+
+> []()
+
+> []()
+
+> []()
+
+> []()
