@@ -63,9 +63,11 @@
 
 > [Identify active users](https://github.com/tvelichkovt/SaaS_Growth_Metrics_SQL/blob/main/Identify%20active%20users.sql)
 
+---
 
 ## [**_NLP_**](https://github.com/tvelichkovt/nlp)
 
+---
 
 > [Extract nouns](https://github.com/tvelichkovt/nlp/blob/main/Extract%20nouns.ipynb)
 
@@ -85,6 +87,8 @@
 > [Creating the wordcloud using stylecloud package](https://github.com/tvelichkovt/nlp/blob/main/Creating%20the%20wordcloud%20using%20stylecloud%20package.ipynb)
 
 > [Basic sentiment analysis model using the nltk library for tweets](https://github.com/tvelichkovt/nlp/blob/main/Basic%20sentiment%20analysis%20model%20using%20the%20nltk%20library%20for%20tweets.ipynb)
+
+---
 
 > []()
 
