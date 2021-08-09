@@ -27,6 +27,24 @@
 
 > [Declaring a variable](https://github.com/tvelichkovt/SaaS_Growth_Metrics_SQL/blob/main/Declaring%20a%20variable.sql)
 
+> [with recursive cte](https://github.com/tvelichkovt/SaaS_Growth_Metrics_SQL/blob/main/With%20recursive%20cte.sql)
+
+> [Subquery grouping with having value](https://github.com/tvelichkovt/SaaS_Growth_Metrics_SQL/blob/main/Subquery%20grouping%20with%20having%20value.sql)
+
+> [RecursiveCTE - find nth highest salary](https://github.com/tvelichkovt/SaaS_Growth_Metrics_SQL/blob/main/RecursiveCTE%20-%20find%20nth%20highest%20salary.sql)
+
+> [Typical math calculations](https://github.com/tvelichkovt/SaaS_Growth_Metrics_SQL/blob/main/Typical%20math%20calculations.sql)
+
+> [Select payments with Lead and Lag](https://github.com/tvelichkovt/SaaS_Growth_Metrics_SQL/blob/main/Select%20payments%20with%20Lead%20and%20Lag.sql)
+
+> [Rate of Change - ROC](https://github.com/tvelichkovt/SaaS_Growth_Metrics_SQL/blob/main/Rate%20of%20Change%20-%20ROC.sql)
+
+> []()
+
+> []()
+
+> []()
+
 > []()
 
 > []()
