@@ -11,4 +11,5 @@
 
 Technical approach -> Open source APIs for sentiment snalysis -> Python (NLTK)
 
-![](/images/tvelichkovtNLPsentiment.png)
+![](/images/tvelichkovtNLPsentiment.PNG)
+
