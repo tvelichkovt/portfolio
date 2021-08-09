@@ -57,35 +57,8 @@
 
 > [Extract yr qr](https://github.com/tvelichkovt/SaaS_Growth_Metrics_SQL/blob/main/Extract%20yr%20qr.sql)
 
-> []()
+> [Running Totals with group by and cte](https://github.com/tvelichkovt/SaaS_Growth_Metrics_SQL/blob/main/Running%20Totals%20with%20group%20by%20and%20cte.sql)
 
-> []()
+> [Time Series Analysis](https://github.com/tvelichkovt/SaaS_Growth_Metrics_SQL/blob/main/Time%20Series%20Analysis.sql)
 
-> []()
-
-> []()
-
-> []()
-
-> []()
-
-> []()
-
-> []()
-
-> []()
-
-> []()
-
-> []()
-
-> []()
-
-> []()
-
-> []()
-
-> []()
-
-> []()
-
+> [Identify active users](https://github.com/tvelichkovt/SaaS_Growth_Metrics_SQL/blob/main/Identify%20active%20users.sql)
