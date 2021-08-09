@@ -69,10 +69,10 @@
 
 > [Extract nouns](https://github.com/tvelichkovt/nlp/blob/main/Extract%20nouns.ipynb)
 
-> [Extract nouns](https://github.com/tvelichkovt/nlp/blob/main/Extract%20nouns.ipynb)
+> [Identify topics from huffingtonpost.com](https://github.com/tvelichkovt/nlp/blob/main/Identify%20topics%20from%20huffingtonpost.com.ipynb)
 
 
-> []()
+> [Plotting the most frequent words in a text (removing stop words)](https://github.com/tvelichkovt/nlp/blob/main/Plotting%20the%20most%20frequent%20words%20in%20a%20text%20(removing%20stop%20words).ipynb)
 
 > []()
 
