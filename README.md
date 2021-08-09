@@ -2,7 +2,7 @@
 
 
 
-## [SQL](https://github.com/tvelichkovt/SaaS_Growth_Metrics_SQL)
+## [**_SQL_**](https://github.com/tvelichkovt/SaaS_Growth_Metrics_SQL)
 
 
 > [Install and configure sample database - classicmodels](https://github.com/tvelichkovt/SaaS_Growth_Metrics_SQL/blob/main/Install%20and%20configure%20sample%20database%20-%20classicmodels.sql)
@@ -64,7 +64,7 @@
 > [Identify active users](https://github.com/tvelichkovt/SaaS_Growth_Metrics_SQL/blob/main/Identify%20active%20users.sql)
 
 
-## [NLP](https://github.com/tvelichkovt/nlp)
+## [**_NLP_**](https://github.com/tvelichkovt/nlp)
 
 
 > [Extract nouns](https://github.com/tvelichkovt/nlp/blob/main/Extract%20nouns.ipynb)
