@@ -8,7 +8,16 @@
 
 > [Identify the largest difference in total score](https://github.com/tvelichkovt/SaaS_Growth_Metrics_SQL/blob/main/Identify%20the%20largest%20difference%20in%20total%20score.sql)
 
+> [Install and configure sample database - classicmodels](https://github.com/tvelichkovt/SaaS_Growth_Metrics_SQL/blob/main/Install%20and%20configure%20sample%20database%20-%20classicmodels.sql)
+
 > []()
+> []()
+> []()
+> []()
+> []()
+> []()
+> []()
+> > []()
 
 
 
