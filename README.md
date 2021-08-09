@@ -1,6 +1,6 @@
 # Todor's Portfolio
 
-
+---
 
 ## [**_SQL_**](https://github.com/tvelichkovt/SaaS_Growth_Metrics_SQL)
 
