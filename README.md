@@ -74,11 +74,11 @@
 
 > [Plotting the most frequent words in a text (removing stop words)](https://github.com/tvelichkovt/nlp/blob/main/Plotting%20the%20most%20frequent%20words%20in%20a%20text%20(removing%20stop%20words).ipynb)
 
-> []()
+> [NLP Chunking](https://github.com/tvelichkovt/nlp/blob/main/NLP%20Chunking.ipynb)
 
-> []()
+> [NLP Chinking](https://github.com/tvelichkovt/nlp/blob/main/NLP%20Chinking.ipynb)
 
-> []()
+> [Tokenizer](https://github.com/tvelichkovt/nlp/blob/main/Tokenizer.ipynb)
 
 > []()
 
