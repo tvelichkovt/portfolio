@@ -2,7 +2,7 @@
 
 
 
-## [SQL -> SaaS Metrics Queries](https://github.com/tvelichkovt/SaaS_Growth_Metrics_SQL)
+## [SQL](https://github.com/tvelichkovt/SaaS_Growth_Metrics_SQL)
 
 
 > [Install and configure sample database - classicmodels](https://github.com/tvelichkovt/SaaS_Growth_Metrics_SQL/blob/main/Install%20and%20configure%20sample%20database%20-%20classicmodels.sql)
@@ -80,11 +80,11 @@
 
 > [Tokenizer](https://github.com/tvelichkovt/nlp/blob/main/Tokenizer.ipynb)
 
-> []()
+> [WordCloud](https://github.com/tvelichkovt/nlp/blob/main/WordCloud.ipynb)
 
-> []()
+> [Creating the wordcloud using stylecloud package](https://github.com/tvelichkovt/nlp/blob/main/Creating%20the%20wordcloud%20using%20stylecloud%20package.ipynb)
 
-> []()
+> [Basic sentiment analysis model using the nltk library for tweets](https://github.com/tvelichkovt/nlp/blob/main/Basic%20sentiment%20analysis%20model%20using%20the%20nltk%20library%20for%20tweets.ipynb)
 
 > []()
 
