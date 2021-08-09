@@ -39,6 +39,34 @@
 
 > [Rate of Change - ROC](https://github.com/tvelichkovt/SaaS_Growth_Metrics_SQL/blob/main/Rate%20of%20Change%20-%20ROC.sql)
 
+> [Quarterly results with case when](https://github.com/tvelichkovt/SaaS_Growth_Metrics_SQL/blob/main/Quarterly%20results%20with%20case%20when.sql)
+
+> [String Concatenation](https://github.com/tvelichkovt/SaaS_Growth_Metrics_SQL/blob/main/String%20Concatenation.sql)
+
+> [Date difference bn delivery dates](https://github.com/tvelichkovt/SaaS_Growth_Metrics_SQL/blob/main/Date%20difference%20bn%20delivery%20dates.sql)
+
+> [Limit the number of rows returned by a query with offset](https://github.com/tvelichkovt/SaaS_Growth_Metrics_SQL/blob/main/Limit%20the%20number%20of%20rows%20returned%20by%20a%20query%20with%20offset.sql)
+
+> [Joining tables](https://github.com/tvelichkovt/SaaS_Growth_Metrics_SQL/blob/main/Joining%20tables.sql)
+
+> [Duplicates and more than x orders](https://github.com/tvelichkovt/SaaS_Growth_Metrics_SQL/blob/main/Duplicates%20and%20more%20than%20x%20orders.sql)
+
+> [Qury not in category](https://github.com/tvelichkovt/SaaS_Growth_Metrics_SQL/blob/main/Qury%20not%20in%20category.sql)
+
+> [Calculate the 3-day moving average MA3](https://github.com/tvelichkovt/SaaS_Growth_Metrics_SQL/blob/main/Calculate%20the%203-day%20moving%20average%20MA3.sql)
+
+> [Extract yr qr](https://github.com/tvelichkovt/SaaS_Growth_Metrics_SQL/blob/main/Extract%20yr%20qr.sql)
+
+> []()
+
+> []()
+
+> []()
+
+> []()
+
+> []()
+
 > []()
 
 > []()
@@ -52,3 +80,12 @@
 > []()
 
 > []()
+
+> []()
+
+> []()
+
+> []()
+
+> []()
+
