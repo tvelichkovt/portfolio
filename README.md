@@ -18,9 +18,9 @@
 
 > [Forecasting with RMSE, MAE, MAPE](https://github.com/tvelichkovt/SaaS_Growth_Metrics_SQL/blob/main/Forecasting%20with%20RMSE%2C%20MAE%2C%20MAPE.sql)
 
-> []()
+> [Identify X higher than average when compared to the Y average](https://github.com/tvelichkovt/SaaS_Growth_Metrics_SQL/blob/main/Identify%20X%20higher%20than%20average%20when%20compared%20to%20the%20Y%20average.sql)
 
-> []()
+> [Identify returning active users](https://github.com/tvelichkovt/SaaS_Growth_Metrics_SQL/blob/main/Identify%20returning%20active%20users.sql)
 
 > []()
 
