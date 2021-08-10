@@ -119,11 +119,11 @@
 
 > [Linear Regression with PyTorch](https://github.com/tvelichkovt/PyTorch/blob/main/Linear%20Regression%20with%20PyTorch.ipynb)
 
-> []()
+> [Solving sequence problems using LSTM with PyTorch](https://github.com/tvelichkovt/PyTorch/blob/main/Solving%20sequence%20problems%20using%20LSTM%20with%20PyTorch.ipynb)
 
-> []()
+> [Neural network for artistic style transfer (NST) in PyTorch](https://github.com/tvelichkovt/PyTorch/blob/main/Neural%20network%20for%20artistic%20style%20transfer%20(NST)%20in%20PyTorch.ipynb)
 
-> []()
+> [Train a model to predict COVID Cases with PyTorch](https://github.com/tvelichkovt/PyTorch/blob/main/Train%20a%20model%20to%20predict%20COVID%20Cases%20with%20PyTorch.ipynb)
 
 > []()
 
