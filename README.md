@@ -2,6 +2,71 @@
 
 ---
 
+## [**_PyTorch_**](https://github.com/tvelichkovt/PyTorch)
+
+---
+
+> [Computation Graph using PyTorch](https://github.com/tvelichkovt/PyTorch/blob/main/Computation%20Graph%20using%20PyTorch.ipynb)
+
+> [Machine Learning - simple linear regression with python](https://github.com/tvelichkovt/PyTorch/blob/main/Machine%20Learning%20-%20simple%20linear%20regression%20with%20python.ipynb)
+
+> [Building a Feedforward Neural Network using Pytorch NN Module](https://github.com/tvelichkovt/PyTorch/blob/main/Building%20a%20Feedforward%20Neural%20Network%20using%20Pytorch%20NN%20Module.ipynb)
+
+> [Insurance cost prediction using PyTorch](https://github.com/tvelichkovt/PyTorch/blob/main/Insurance%20cost%20prediction%20using%20PyTorch.ipynb)
+
+> [Linear Regression with PyTorch](https://github.com/tvelichkovt/PyTorch/blob/main/Linear%20Regression%20with%20PyTorch.ipynb)
+
+> [Solving sequence problems using LSTM with PyTorch](https://github.com/tvelichkovt/PyTorch/blob/main/Solving%20sequence%20problems%20using%20LSTM%20with%20PyTorch.ipynb)
+
+> [Neural network for artistic style transfer (NST) in PyTorch](https://github.com/tvelichkovt/PyTorch/blob/main/Neural%20network%20for%20artistic%20style%20transfer%20(NST)%20in%20PyTorch.ipynb)
+
+> [Train a model to predict COVID Cases with PyTorch](https://github.com/tvelichkovt/PyTorch/blob/main/Train%20a%20model%20to%20predict%20COVID%20Cases%20with%20PyTorch.ipynb)
+
+> []()
+
+> []()
+
+---
+
+## [**_NLP_**](https://github.com/tvelichkovt/nlp)
+
+---
+
+> [Extract nouns](https://github.com/tvelichkovt/nlp/blob/main/Extract%20nouns.ipynb)
+
+> [Identify topics from huffingtonpost.com](https://github.com/tvelichkovt/nlp/blob/main/Identify%20topics%20from%20huffingtonpost.com.ipynb)
+
+
+> [Plotting the most frequent words in a text (removing stop words)](https://github.com/tvelichkovt/nlp/blob/main/Plotting%20the%20most%20frequent%20words%20in%20a%20text%20(removing%20stop%20words).ipynb)
+
+> [NLP Chunking](https://github.com/tvelichkovt/nlp/blob/main/NLP%20Chunking.ipynb)
+
+> [NLP Chinking](https://github.com/tvelichkovt/nlp/blob/main/NLP%20Chinking.ipynb)
+
+> [Tokenizer](https://github.com/tvelichkovt/nlp/blob/main/Tokenizer.ipynb)
+
+> [WordCloud](https://github.com/tvelichkovt/nlp/blob/main/WordCloud.ipynb)
+
+> [Creating the wordcloud using stylecloud package](https://github.com/tvelichkovt/nlp/blob/main/Creating%20the%20wordcloud%20using%20stylecloud%20package.ipynb)
+
+> [Basic sentiment analysis model using the nltk library for tweets](https://github.com/tvelichkovt/nlp/blob/main/Basic%20sentiment%20analysis%20model%20using%20the%20nltk%20library%20for%20tweets.ipynb)
+
+> []()
+
+> []()
+
+---
+
+## [**_OCR_**](https://github.com/tvelichkovt/OCR)
+
+---
+
+> [Extract text from image via OCR pytesseract](https://github.com/tvelichkovt/OCR/blob/master/Extract%20text%20from%20image%20via%20OCR%20pytesseract.ipynb)
+
+> [Extract text from pdf via OCR PIL, pdf2image, pytesseract](https://github.com/tvelichkovt/OCR/blob/master/Extract%20text%20from%20pdf%20via%20OCR%20PIL%2C%20pdf2image%2C%20pytesseract.ipynb)
+
+---
+
 ## [**_SQL_**](https://github.com/tvelichkovt/SaaS_Growth_Metrics_SQL)
 
 ---
@@ -64,30 +129,9 @@
 
 > [Identify active users](https://github.com/tvelichkovt/SaaS_Growth_Metrics_SQL/blob/main/Identify%20active%20users.sql)
 
----
+> []()
 
-## [**_NLP_**](https://github.com/tvelichkovt/nlp)
-
----
-
-> [Extract nouns](https://github.com/tvelichkovt/nlp/blob/main/Extract%20nouns.ipynb)
-
-> [Identify topics from huffingtonpost.com](https://github.com/tvelichkovt/nlp/blob/main/Identify%20topics%20from%20huffingtonpost.com.ipynb)
-
-
-> [Plotting the most frequent words in a text (removing stop words)](https://github.com/tvelichkovt/nlp/blob/main/Plotting%20the%20most%20frequent%20words%20in%20a%20text%20(removing%20stop%20words).ipynb)
-
-> [NLP Chunking](https://github.com/tvelichkovt/nlp/blob/main/NLP%20Chunking.ipynb)
-
-> [NLP Chinking](https://github.com/tvelichkovt/nlp/blob/main/NLP%20Chinking.ipynb)
-
-> [Tokenizer](https://github.com/tvelichkovt/nlp/blob/main/Tokenizer.ipynb)
-
-> [WordCloud](https://github.com/tvelichkovt/nlp/blob/main/WordCloud.ipynb)
-
-> [Creating the wordcloud using stylecloud package](https://github.com/tvelichkovt/nlp/blob/main/Creating%20the%20wordcloud%20using%20stylecloud%20package.ipynb)
-
-> [Basic sentiment analysis model using the nltk library for tweets](https://github.com/tvelichkovt/nlp/blob/main/Basic%20sentiment%20analysis%20model%20using%20the%20nltk%20library%20for%20tweets.ipynb)
+> []()
 
 ---
 
@@ -100,39 +144,3 @@
 > []()
 
 > []()
-
-
----
-
-## [**_PyTorch_**](https://github.com/tvelichkovt/PyTorch)
-
----
-
-
-> [Computation Graph using PyTorch](https://github.com/tvelichkovt/PyTorch/blob/main/Computation%20Graph%20using%20PyTorch.ipynb)
-
-> [Machine Learning - simple linear regression with python](https://github.com/tvelichkovt/PyTorch/blob/main/Machine%20Learning%20-%20simple%20linear%20regression%20with%20python.ipynb)
-
-> [Building a Feedforward Neural Network using Pytorch NN Module](https://github.com/tvelichkovt/PyTorch/blob/main/Building%20a%20Feedforward%20Neural%20Network%20using%20Pytorch%20NN%20Module.ipynb)
-
-> [Insurance cost prediction using PyTorch](https://github.com/tvelichkovt/PyTorch/blob/main/Insurance%20cost%20prediction%20using%20PyTorch.ipynb)
-
-> [Linear Regression with PyTorch](https://github.com/tvelichkovt/PyTorch/blob/main/Linear%20Regression%20with%20PyTorch.ipynb)
-
-> [Solving sequence problems using LSTM with PyTorch](https://github.com/tvelichkovt/PyTorch/blob/main/Solving%20sequence%20problems%20using%20LSTM%20with%20PyTorch.ipynb)
-
-> [Neural network for artistic style transfer (NST) in PyTorch](https://github.com/tvelichkovt/PyTorch/blob/main/Neural%20network%20for%20artistic%20style%20transfer%20(NST)%20in%20PyTorch.ipynb)
-
-> [Train a model to predict COVID Cases with PyTorch](https://github.com/tvelichkovt/PyTorch/blob/main/Train%20a%20model%20to%20predict%20COVID%20Cases%20with%20PyTorch.ipynb)
-
----
-
-## [**_OCR_**](https://github.com/tvelichkovt/OCR)
-
----
-
-> [Extract text from image via OCR pytesseract](https://github.com/tvelichkovt/OCR/blob/master/Extract%20text%20from%20image%20via%20OCR%20pytesseract.ipynb)
-
-
-> [Extract text from pdf via OCR PIL, pdf2image, pytesseract](https://github.com/tvelichkovt/OCR/blob/master/Extract%20text%20from%20pdf%20via%20OCR%20PIL%2C%20pdf2image%2C%20pytesseract.ipynb)
-
