@@ -131,35 +131,8 @@
 
 ---
 
-
 > [Extract text from image via OCR pytesseract](https://github.com/tvelichkovt/OCR/blob/master/Extract%20text%20from%20image%20via%20OCR%20pytesseract.ipynb)
 
 
-
-
-> []()
-
-> []()
-
-> []()
-
-> []()
-
-> []()
-
-> []()
-
-> []()
-
-> []()
-
-> []()
-
-> []()
-
-> []()
-
-> []()
-
-> []()
+> [Extract text from pdf via OCR PIL, pdf2image, pytesseract](https://github.com/tvelichkovt/OCR/blob/master/Extract%20text%20from%20pdf%20via%20OCR%20PIL%2C%20pdf2image%2C%20pytesseract.ipynb)
 
