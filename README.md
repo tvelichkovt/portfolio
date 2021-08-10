@@ -32,7 +32,7 @@
 
 ---
 
-> [Extract nouns](https://github.com/tvelichkovt/nlp/blob/main/Extract%20nouns.ipynb)
+> [Extract nouns - nltk](https://github.com/tvelichkovt/nlp/blob/main/Extract%20nouns%20-%20nltk.ipynb)
 
 > [Identify topics from huffingtonpost.com](https://github.com/tvelichkovt/nlp/blob/main/Identify%20topics%20from%20huffingtonpost.com.ipynb)
 
