@@ -125,6 +125,34 @@
 
 > [Train a model to predict COVID Cases with PyTorch](https://github.com/tvelichkovt/PyTorch/blob/main/Train%20a%20model%20to%20predict%20COVID%20Cases%20with%20PyTorch.ipynb)
 
+---
+
+## [**_OCR_**](https://github.com/tvelichkovt/PyTorch)
+
+---
+
+
+> [Extract text from image via OCR pytesseract](https://github.com/tvelichkovt/OCR/blob/master/Extract%20text%20from%20image%20via%20OCR%20pytesseract.ipynb)
+
+
+
+
+> []()
+
+> []()
+
+> []()
+
+> []()
+
+> []()
+
+> []()
+
+> []()
+
+> []()
+
 > []()
 
 > []()
