@@ -127,7 +127,7 @@
 
 ---
 
-## [**_OCR_**](https://github.com/tvelichkovt/PyTorch)
+## [**_OCR_**](https://github.com/tvelichkovt/OCR)
 
 ---
 
