@@ -101,10 +101,37 @@
 
 > []()
 
+
+---
+
+## [**_PyTorch_**](https://github.com/tvelichkovt/PyTorch)
+
+---
+
+
+> [Computation Graph using PyTorch](https://github.com/tvelichkovt/PyTorch/blob/main/Computation%20Graph%20using%20PyTorch.ipynb)
+
+> []()
+
+> []()
+
 > []()
 
 > []()
 
 > []()
 
+> []()
+
+> []()
+
+> []()
+
+> []()
+
+> []()
+
+> []()
+
+> []()
 
