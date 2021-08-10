@@ -111,13 +111,13 @@
 
 > [Computation Graph using PyTorch](https://github.com/tvelichkovt/PyTorch/blob/main/Computation%20Graph%20using%20PyTorch.ipynb)
 
-> []()
+> [Machine Learning - simple linear regression with python](https://github.com/tvelichkovt/PyTorch/blob/main/Machine%20Learning%20-%20simple%20linear%20regression%20with%20python.ipynb)
 
-> []()
+> [Building a Feedforward Neural Network using Pytorch NN Module](https://github.com/tvelichkovt/PyTorch/blob/main/Building%20a%20Feedforward%20Neural%20Network%20using%20Pytorch%20NN%20Module.ipynb)
 
-> []()
+> [Insurance cost prediction using PyTorch](https://github.com/tvelichkovt/PyTorch/blob/main/Insurance%20cost%20prediction%20using%20PyTorch.ipynb)
 
-> []()
+> [Linear Regression with PyTorch](https://github.com/tvelichkovt/PyTorch/blob/main/Linear%20Regression%20with%20PyTorch.ipynb)
 
 > []()
 
