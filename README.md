@@ -91,11 +91,11 @@
 
 ---
 
-## [**_Query gs_**](https://github.com/tvelichkovt/nlp)
+## [**_GS-Jupyter_**](https://github.com/tvelichkovt/googlesheet)
 
 ---
 
-> []()
+> [Connect Jupyter to Google Sheets](https://github.com/tvelichkovt/googlesheet/blob/main/Connect%20Jupyter%20to%20Google%20Sheets.ipynb)
 
 > []()
 
