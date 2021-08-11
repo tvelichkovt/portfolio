@@ -135,21 +135,6 @@
 
 ---
 
-## [**_GS-Jupyter_**](https://github.com/tvelichkovt/googlesheet)
-
----
-
-> [Connect Jupyter to Google Sheets](https://github.com/tvelichkovt/googlesheet/blob/main/Connect%20Jupyter%20to%20Google%20Sheets.ipynb)
-
-> [Pandas wrangling with google sheet data](https://github.com/tvelichkovt/googlesheet/blob/main/Pandas%20wrangling%20with%20google%20sheet%20data.ipynb)
-
-> [Syntax to group and aggregate data and include having where clauses in a Google Sheets](https://github.com/tvelichkovt/googlesheet/blob/main/Syntax%20to%20group%20and%20aggregate%20data%20and%20include%20having%20where%20clauses%20in%20a%20Google%20Sheets.ipynb)
-
-> []()
-
-> []()
----
-
 ## [**_Shell_**](https://github.com/tvelichkovt/shell)
 
 ---
@@ -159,6 +144,24 @@
 > []()
 
 > []()
+
+> []()
+
+> []()
+
+
+
+---
+
+## [**_GS-Jupyter_**](https://github.com/tvelichkovt/googlesheet)
+
+---
+
+> [Connect Jupyter to Google Sheets](https://github.com/tvelichkovt/googlesheet/blob/main/Connect%20Jupyter%20to%20Google%20Sheets.ipynb)
+
+> [Pandas wrangling with google sheet data](https://github.com/tvelichkovt/googlesheet/blob/main/Pandas%20wrangling%20with%20google%20sheet%20data.ipynb)
+
+> [Syntax to group and aggregate data and include having where clauses in a Google Sheets](https://github.com/tvelichkovt/googlesheet/blob/main/Syntax%20to%20group%20and%20aggregate%20data%20and%20include%20having%20where%20clauses%20in%20a%20Google%20Sheets.ipynb)
 
 > []()
 
