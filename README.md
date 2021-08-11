@@ -141,6 +141,10 @@
 
 > [Connect Jupyter to Google Sheets](https://github.com/tvelichkovt/googlesheet/blob/main/Connect%20Jupyter%20to%20Google%20Sheets.ipynb)
 
+> [Pandas wrangling with google sheet data](https://github.com/tvelichkovt/googlesheet/blob/main/Pandas%20wrangling%20with%20google%20sheet%20data.ipynb)
+
+> []()
+
 > []()
 
 > []()
