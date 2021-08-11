@@ -1,4 +1,4 @@
-# [Todor's Portfolio](https://tvelichkovt.github.io/portfolio/)
+# [**Todor's Portfolio**](https://tvelichkovt.github.io/portfolio/)
 
 ---
 
