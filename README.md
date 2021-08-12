@@ -135,7 +135,7 @@
 
 ---
 
-## [**_Shell_**](https://github.com/tvelichkovt/shell)
+## [**_Bash_**](https://github.com/tvelichkovt/bash)
 
 ---
 
