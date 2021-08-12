@@ -135,7 +135,7 @@
 
 ---
 
-## [**_Bash_**](https://github.com/tvelichkovt/bash)
+## [**_Bash_**](https://github.com/tvelichkovt/bash/tree/main/1.BASH%20Shell%20Scripting%20-%20basics)
 
 ---
 
