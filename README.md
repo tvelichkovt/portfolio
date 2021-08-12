@@ -135,11 +135,11 @@
 
 ---
 
-## [**_Bash_**](https://github.com/tvelichkovt/bash/tree/main/1.BASH%20Shell%20Scripting%20-%20basics)
+## [**_Bash_**](https://github.com/tvelichkovt/bash)
 
 ---
 
-> [hello.sh](https://github.com/tvelichkovt/shell/blob/main/hello.sh)
+> [1.BASH Shell Scripting - basics](https://github.com/tvelichkovt/bash/tree/main/1.BASH%20Shell%20Scripting%20-%20basics)
 
 > []()
 
