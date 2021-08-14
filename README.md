@@ -139,7 +139,7 @@
 
 ---
 
-> [1.BASH Shell Scripting - basics](https://github.com/tvelichkovt/bash/tree/main/1.BASH%20Shell%20Scripting%20-%20basics)
+> [1.Automating user management with bash script](https://github.com/tvelichkovt/bash/tree/main/1.BASH%20Shell%20Scripting%20-%20basics)
 
 > []()
 
