@@ -141,7 +141,7 @@
 
 > [Automating user management with bash script](https://github.com/tvelichkovt/bash/tree/main/Automating%20user%20management%20with%20bash%20script)
 
-> []()
+> [Configuring SSH](https://github.com/tvelichkovt/bash/tree/main/Configuring%20SSH)
 
 > []()
 
