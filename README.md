@@ -24,7 +24,7 @@
 
 > [Scikit - to evaluate performance of the regression algorithm](https://github.com/tvelichkovt/PyTorch/blob/main/Decision%20Trees%20in%20Python%20with%20Scikit-Learn.ipynb)
 
-> [Decision Trees in Python with Scikit-Learn](https://github.com/tvelichkovt/PyTorch/blob/main/Decision%20Trees%20in%20Python%20with%20Scikit-Learn.ipynb)
+> [Scikit-Learn, evolution of the decision tree](https://github.com/tvelichkovt/PyTorch/blob/main/Decision%20Trees%20in%20Python%20with%20Scikit-Learn.ipynb)
 
 > [Decision Tree Using Pytorch](https://github.com/tvelichkovt/PyTorch/blob/main/Decision%20Tree%20Using%20Pytorch.ipynb)
 
