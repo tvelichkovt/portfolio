@@ -28,7 +28,7 @@
 
 > [Decision Tree Using Pytorch](https://github.com/tvelichkovt/PyTorch/blob/main/Decision%20Tree%20Using%20Pytorch.ipynb)
 
-> []()
+> [Automating AB testing with Machine Learning](https://github.com/tvelichkovt/PyTorch/blob/main/Automating%20AB%20testing%20with%20Machine%20Learning.ipynb)
 
 > []()
 
