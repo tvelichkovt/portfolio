@@ -22,7 +22,7 @@
 
 > [Train a model to predict COVID Cases with PyTorch](https://github.com/tvelichkovt/PyTorch/blob/main/Train%20a%20model%20to%20predict%20COVID%20Cases%20with%20PyTorch.ipynb)
 
-> [Scikit - to evaluate performance of the regression algorithm](https://github.com/tvelichkovt/PyTorch/blob/main/Decision%20Trees%20in%20Python%20with%20Scikit-Learn.ipynb)
+> [Performance evaluation of the regression algorithm with PyTorch](https://github.com/tvelichkovt/PyTorch/blob/main/Performance%20evaluation%20of%20the%20regression%20algorithm%20with%20PyTorch.ipynb)
 
 > [Scikit-Learn, evolution of the decision tree](https://github.com/tvelichkovt/PyTorch/blob/main/Decision%20Trees%20in%20Python%20with%20Scikit-Learn.ipynb)
 
