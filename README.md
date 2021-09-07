@@ -30,7 +30,7 @@
 
 > [Automating AB testing with Machine Learning](https://github.com/tvelichkovt/PyTorch/blob/main/Automating%20AB%20testing%20with%20Machine%20Learning.ipynb)
 
-> [BPR and WARP - Matrix Factorization in PyTorch](https://github.com/tvelichkovt/PyTorch/commit/522fc00a1d77e937f1273361d8fbde6c75a9e791)
+> [BPR and WARP - Matrix Factorization in PyTorch](https://github.com/tvelichkovt/PyTorch/blob/main/BPR%20and%20WARP%20-%20Matrix%20Factorization%20in%20PyTorch.ipynb)
 
 > []()
 
