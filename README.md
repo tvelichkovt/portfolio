@@ -8,6 +8,8 @@
 
 > [Computation Graph using PyTorch](https://github.com/tvelichkovt/PyTorch/blob/main/Computation%20Graph%20using%20PyTorch.ipynb)
 
+> [Interpretable forecasting with PyTorch N-Beats Baseline and TimeSeries](https://github.com/tvelichkovt/PyTorch/blob/main/Interpretable%20forecasting%20with%20PyTorch%20N-Beats%20Baseline%20and%20TimeSeries.ipynb)
+
 > [Machine Learning - simple linear regression with python](https://github.com/tvelichkovt/PyTorch/blob/main/Machine%20Learning%20-%20simple%20linear%20regression%20with%20python.ipynb)
 
 > [Building a Feedforward Neural Network using Pytorch NN Module](https://github.com/tvelichkovt/PyTorch/blob/main/Building%20a%20Feedforward%20Neural%20Network%20using%20Pytorch%20NN%20Module.ipynb)
