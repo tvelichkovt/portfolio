@@ -5,7 +5,7 @@
 ## [**_PyTorch_**](https://github.com/tvelichkovt/PyTorch)
 
 ---
-> [How use the TCN (Temporal Convolutional Networks) architecture to forecast a time series using the Darts library](https://github.com/tvelichkovt/PyTorch/blob/main/How%20use%20the%20TCN%20(Temporal%20Convolutional%20Networks)%20architecture%20to%20forecast%20a%20time%20series%20using%20the%20Darts%20library.ipynb)
+> [How use the TCN architecture to forecast a time series using the Darts library](https://github.com/tvelichkovt/PyTorch/blob/main/How%20use%20the%20TCN%20(Temporal%20Convolutional%20Networks)%20architecture%20to%20forecast%20a%20time%20series%20using%20the%20Darts%20library.ipynb)
 
 > []()
 
