@@ -88,6 +88,55 @@
 
 > [Extract text from pdf via OCR PIL, pdf2image, pytesseract](https://github.com/tvelichkovt/OCR/blob/master/Extract%20text%20from%20pdf%20via%20OCR%20PIL%2C%20pdf2image%2C%20pytesseract.ipynb)
 
+
+
+---
+
+## [**_Bash_**](https://github.com/tvelichkovt/bash)
+
+---
+
+> [Automating user management with bash script](https://github.com/tvelichkovt/bash/tree/main/Automating%20user%20management%20with%20bash%20script)
+
+> [Configuring SSH](https://github.com/tvelichkovt/bash/tree/main/Configuring%20SSH)
+
+> []()
+
+> []()
+
+> []()
+
+
+
+---
+## [**_PySpark-DataFrame_**](https://github.com/tvelichkovt/PySpark-DataFrame)
+
+---
+
+> [PySpark DataFrame SQLBasics](https://github.com/tvelichkovt/PySpark-DataFrame/blob/main/PySpark%20DataFrame%20SQL%20Basics.ipynb)
+
+
+> []()
+
+> []()
+
+
+---
+
+## [**_GS-Jupyter_**](https://github.com/tvelichkovt/googlesheet)
+
+---
+
+> [Connect Jupyter to Google Sheets](https://github.com/tvelichkovt/googlesheet/blob/main/Connect%20Jupyter%20to%20Google%20Sheets.ipynb)
+
+> [Pandas wrangling with google sheet data](https://github.com/tvelichkovt/googlesheet/blob/main/Pandas%20wrangling%20with%20google%20sheet%20data.ipynb)
+
+> [Syntax to group and aggregate data and include having where clauses in a Google Sheets](https://github.com/tvelichkovt/googlesheet/blob/main/Syntax%20to%20group%20and%20aggregate%20data%20and%20include%20having%20where%20clauses%20in%20a%20Google%20Sheets.ipynb)
+
+> []()
+
+> []()
+
 ---
 
 ## [**_SQL_**](https://github.com/tvelichkovt/SaaS_Growth_Metrics_SQL)
@@ -151,53 +200,6 @@
 > [Time Series Analysis](https://github.com/tvelichkovt/SaaS_Growth_Metrics_SQL/blob/main/Time%20Series%20Analysis.sql)
 
 > [Identify active users](https://github.com/tvelichkovt/SaaS_Growth_Metrics_SQL/blob/main/Identify%20active%20users.sql)
-
-> []()
-
-> []()
-
----
-
-## [**_Bash_**](https://github.com/tvelichkovt/bash)
-
----
-
-> [Automating user management with bash script](https://github.com/tvelichkovt/bash/tree/main/Automating%20user%20management%20with%20bash%20script)
-
-> [Configuring SSH](https://github.com/tvelichkovt/bash/tree/main/Configuring%20SSH)
-
-> []()
-
-> []()
-
-> []()
-
-
-
----
-## [**_PySpark-DataFrame_**](https://github.com/tvelichkovt/PySpark-DataFrame)
-
----
-
-> [PySpark DataFrame SQLBasics](https://github.com/tvelichkovt/PySpark-DataFrame/blob/main/PySpark%20DataFrame%20SQL%20Basics.ipynb)
-
-
-> []()
-
-> []()
-
-
----
-
-## [**_GS-Jupyter_**](https://github.com/tvelichkovt/googlesheet)
-
----
-
-> [Connect Jupyter to Google Sheets](https://github.com/tvelichkovt/googlesheet/blob/main/Connect%20Jupyter%20to%20Google%20Sheets.ipynb)
-
-> [Pandas wrangling with google sheet data](https://github.com/tvelichkovt/googlesheet/blob/main/Pandas%20wrangling%20with%20google%20sheet%20data.ipynb)
-
-> [Syntax to group and aggregate data and include having where clauses in a Google Sheets](https://github.com/tvelichkovt/googlesheet/blob/main/Syntax%20to%20group%20and%20aggregate%20data%20and%20include%20having%20where%20clauses%20in%20a%20Google%20Sheets.ipynb)
 
 > []()
 
