@@ -179,7 +179,7 @@
 
 ---
 
-> [PySpark DataFrame SQLBasics](https://github.com/tvelichkovt/PySpark-DataFrame/blob/main/PySpark%20DataFrame%20SQLBasics.ipynb)
+> [PySpark DataFrame SQLBasics](https://github.com/tvelichkovt/PySpark-DataFrame/blob/main/PySpark%20DataFrame%20SQL%20Basics.ipynb)
 
 
 > []()
