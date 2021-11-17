@@ -187,7 +187,6 @@
 > []()
 
 
-
 ---
 
 ## [**_GS-Jupyter_**](https://github.com/tvelichkovt/googlesheet)
