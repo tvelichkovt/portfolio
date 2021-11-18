@@ -115,6 +115,12 @@
 
 > [PySpark DataFrame SQLBasics](https://github.com/tvelichkovt/PySpark-DataFrame/blob/main/PySpark%20DataFrame%20SQL%20Basics.ipynb)
 
+> [PySpark Dataframes -1- Create a Dataframe](https://github.com/tvelichkovt/PySpark/blob/main/PySpark%20Dataframes%20-1-%20Create%20a%20Dataframe.ipynb)
+
+> [PySpark Dataframes -2- Data overview and pandas style manipulations](https://github.com/tvelichkovt/PySpark/blob/main/PySpark%20Dataframes%20-2-%20Data%20overview%20and%20pandas%20style%20manipulations.ipynb)
+
+> [PySpark Dataframes -3- Handling Missing Values](https://github.com/tvelichkovt/PySpark/blob/main/PySpark%20Dataframes%20-3-%20Handling%20Missing%20Values.ipynb)
+
 
 > []()
 
