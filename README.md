@@ -119,8 +119,9 @@
 
 > [PySpark Dataframes -2- Data overview and pandas style manipulations](https://github.com/tvelichkovt/PySpark/blob/main/PySpark%20Dataframes%20-2-%20Data%20overview%20and%20pandas%20style%20manipulations.ipynb)
 
-> [PySpark Dataframes -3- Handling Missing Values](https://github.com/tvelichkovt/PySpark/blob/main/PySpark%20Dataframes%20-3-%20Handling%20Missing%20Values.ipynb)
+> [PySpark Dataframes -3- Handling Missing Values and Imputation](https://github.com/tvelichkovt/PySpark/blob/main/PySpark%20Dataframes%20-3-%20Handling%20Missing%20Values.ipynb)
 
+> [PySpark Dataframes -4- Filter Operations](https://github.com/tvelichkovt/PySpark/blob/main/PySpark%20Dataframes%20-4-%20Filter%20Operations.ipynb)
 
 > []()
 
