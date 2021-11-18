@@ -113,7 +113,7 @@
 
 ---
 
-> [PySpark DataFrame SQLBasics](https://github.com/tvelichkovt/PySpark-DataFrame/blob/main/PySpark%20DataFrame%20SQL%20Basics.ipynb)
+> [PySpark DataFrame SQLBasics via Colaboratory](https://github.com/tvelichkovt/PySpark-DataFrame/blob/main/PySpark%20DataFrame%20SQL%20Basics.ipynb)
 
 > [PySpark Dataframes -1- Create a Dataframe](https://github.com/tvelichkovt/PySpark/blob/main/PySpark%20Dataframes%20-1-%20Create%20a%20Dataframe.ipynb)
 
