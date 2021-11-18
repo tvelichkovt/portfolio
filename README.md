@@ -125,6 +125,9 @@
 
 > [PySpark Dataframes -5- Aggregate and GroupBy](https://github.com/tvelichkovt/PySpark/blob/main/PySpark%20Dataframes%20-5-%20Aggregate%20and%20GroupBy.ipynb)
 
+> [PySpark Dataframes -6- Building A Machine Learning Model With PySpark](https://github.com/tvelichkovt/PySpark/blob/main/PySpark%20Dataframes%20-6-%20Building%20A%20Machine%20Learning%20Model%20With%20PySpark.ipynb)
+
+
 > []()
 
 > []()
