@@ -123,6 +123,8 @@
 
 > [PySpark Dataframes -4- Filter Operations](https://github.com/tvelichkovt/PySpark/blob/main/PySpark%20Dataframes%20-4-%20Filter%20Operations.ipynb)
 
+> [PySpark Dataframes -5- Aggregate and GroupBy](https://github.com/tvelichkovt/PySpark/blob/main/PySpark%20Dataframes%20-5-%20Aggregate%20and%20GroupBy.ipynb)
+
 > []()
 
 > []()
