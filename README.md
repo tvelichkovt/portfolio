@@ -127,6 +127,7 @@
 
 > [PySpark Dataframes -6- Building A Machine Learning Model With PySpark](https://github.com/tvelichkovt/PySpark/blob/main/PySpark%20Dataframes%20-6-%20Building%20A%20Machine%20Learning%20Model%20With%20PySpark.ipynb)
 
+> [PySpark Dataframes -7- Building A Machine Learning Model With PySpark with Categorical Non-Numerical Features](https://github.com/tvelichkovt/PySpark/blob/main/PySpark%20Dataframes%20-7-%20Building%20A%20Machine%20Learning%20Model%20With%20PySpark%20with%20Categorical%20Non-Numerical%20Features.ipynb)
 
 > []()
 
